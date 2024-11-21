@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/amazon-clone/static/css/main.dcf957e3.css",
+    "main.js": "/amazon-clone/static/js/main.b22bd90b.js",
+    "static/media/order-now.gif": "/amazon-clone/static/media/order-now.0e4d0d77826a37e2fc14.gif",
+    "static/media/login-BG.png": "/amazon-clone/static/media/login-BG.e16ee81fd3be54f0cce6.png",
+    "static/media/login-BG2.png": "/amazon-clone/static/media/login-BG2.b5e270f1a0e1d3dc4802.png",
+    "static/media/delivery.png": "/amazon-clone/static/media/delivery.1f4bcc8fd76f28a79332.png",
+    "static/media/logo2.png": "/amazon-clone/static/media/logo2.ba6c9d3900bb3bfc83bf.png",
+    "static/media/world.png": "/amazon-clone/static/media/world.829d1336f17a780bf6d2.png",
+    "static/media/loading.gif": "/amazon-clone/static/media/loading.8981e9a58e16221f8156.gif",
+    "static/media/google.png": "/amazon-clone/static/media/google.1da0744f303eeea12821.png",
+    "static/media/master.png": "/amazon-clone/static/media/master.3666d2afd7cf2e283f86.png",
+    "static/media/spin.gif": "/amazon-clone/static/media/spin.7adea3e92ead786a729e.gif",
+    "static/media/CREDC___.ttf": "/amazon-clone/static/media/CREDC___.8d7994cdb4113aba391d.ttf",
+    "static/media/error.png": "/amazon-clone/static/media/error.d52e3c1a21dbecc57c96.png",
+    "static/media/empty.png": "/amazon-clone/static/media/empty.011a6ba680b0e6361a9e.png",
+    "static/media/american.png": "/amazon-clone/static/media/american.a0820f4d0daab02389d3.png",
+    "static/media/cart-empty.png": "/amazon-clone/static/media/cart-empty.9c5e89fb4f9511722096.png",
+    "static/media/default.png": "/amazon-clone/static/media/default.05c1018804fdc062dd82.png",
+    "static/media/logo.png": "/amazon-clone/static/media/logo.8c4d7640862a7c7e8390.png",
+    "static/media/chip.png": "/amazon-clone/static/media/chip.994b0998f89828e056c2.png",
+    "static/media/visa2.png": "/amazon-clone/static/media/visa2.6a78a1b076d2a0ddbff2.png",
+    "static/media/user.png": "/amazon-clone/static/media/user.7bb7dda85aeac570535b.png",
+    "static/media/A-logo.png": "/amazon-clone/static/media/A-logo.0a855e33e4fec762350c.png",
+    "static/media/contact.png": "/amazon-clone/static/media/contact.14b267ff6d1ffc9e40ef.png",
+    "index.html": "/amazon-clone/index.html",
+    "main.dcf957e3.css.map": "/amazon-clone/static/css/main.dcf957e3.css.map",
+    "main.b22bd90b.js.map": "/amazon-clone/static/js/main.b22bd90b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf957e3.css",
+    "static/js/main.b22bd90b.js"
+  ]
+}
